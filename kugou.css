@@ -1,0 +1,417 @@
+#zong{
+	width: 1350px;
+	height: 3000px;
+/*	background-color:#ccc;*/
+	margin:0 auto;
+}
+.diyi{
+	width: 1350px;
+	height: 78px;
+}
+.diyi h1{
+	margin-left:-9900px;
+	float: left;
+}
+.diyi img{
+	margin-left:175px;
+	margin-top: 20px;
+		float: left;
+
+	
+}
+ .diyi input{
+ 	width: 299px;
+ 	height: 34px;
+	font-size: 12px;
+	margin-top: 20px;
+	margin-left: 41px;
+	float: left;
+}
+
+ .diyi li{
+ 	color: #777;
+	float: left;
+	line-height: 78px;
+   margin-left: 50px;
+ }
+ .diyi .input2{
+ 	width: 47px;
+ 	height: 29px;
+ 	border: 1px solid #dbdbdb;
+ 	border-right: 2px;
+ 	font-size: 15px;
+ 	color: #777;
+ }
+ .diyi .input2:hover{
+ 	font-size: 13px;
+ 	color: #fff;
+ 	background-color:#169af3;	
+ }
+/*  标题结束
+  第二部分首页*/
+  .shouye{
+  	width: 1350px;
+  	background-color: #2c323b;	
+  	margin: 0 auto;
+  }
+  .shouyezhong{
+  	width: 1000px;
+  	margin: 0 auto;
+  }
+  .shouye .bangdan li{
+  	float: left;
+  }
+   .shouye .yinyue li{
+   	float:left;
+   }
+   .shouye .bangdan .li1{
+   	width: 92px;
+   	height: 55px;
+   	font-size: 15px;
+   	color: #fff;
+   	line-height: 55px;
+   	text-align: center;
+   	display: inline-block;
+   }
+.bangdan .li1:hover{
+background-color: #0c8ed9;
+}
+.bangdan .li1 .xiajiantou{
+margin-top: 20px;
+margin-left: 5px;
+}
+.yinyue .li2{
+font-size: 15px;
+color: #adaeaf;
+line-height: 55px;
+}
+.yinyue img{
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.yinyue li{
+	padding-left: 62px;
+}
+.li2:hover{
+color: #0c8ed9;
+}
+/*	第二部分结束
+	第三部分大图*/
+/*	··············
+	第四部分下载*/
+	.disi{
+		height: 60px;
+		background-color: #003c75;
+	}
+	.disi li{
+		float: left;
+	}
+	.disi li{
+		width:447px;
+		height: 25px;
+		font-size: 15px;
+		color: #fff;
+		text-align: center;
+		line-height: 20px;
+		margin-top: 20px;
+	}
+	.disi .disi1{
+		border-left: 1px solid #33618f;
+		border-right: 1px solid #33618f;
+	}
+	.disi img{
+		margin-left: 5px;
+	}
+/*	第四部分下载结束
+	第五部分歌单和榜单*/
+	.diwu{
+		width: 1000px;
+		background-color: #ccc;
+		margin: 40px auto;
+	}
+	.diwu .diwuzuo{
+		width: 649px;
+		float: left;
+	}
+
+	 div.diwu h2{
+    font-size: 28px;
+    color: #555555;
+	}
+	div.diwu span{
+		font-size: 28px;
+		color: #0299f2;
+		float: left;
+	}
+	div .diwu em{
+		font-size: 13px;
+		color: #999;
+		float: right;
+		margin-top: 10px;
+	}
+	div .diwu img{
+		float: left;
+		margin-top: 5px;
+		margin-left: 5px;
+	}
+.diwuyou{
+	width: 348px;
+	float:left;
+	margin-top: 5px;
+}
+.diwuyou i{
+		font-size: 28px;
+		color: #0299f2;
+}
+.diwuyou strong{
+	font-size: 13px;
+	color: #999;
+	float: right;
+	margin-top: 10px;
+}
+.diwuyou dt{
+	margin-top: 22px;
+	line-height: 24px;
+
+}
+.diwuyou dt{
+		font-size: 14px;
+		color: #333;
+}
+.diwuyou dd{
+	 font-size: 12px;
+	 color: #555;
+}
+/*第六部分*/
+.diliu {
+	margin: 0px 175px;
+}
+/*第七部分*/
+.diqizong{
+width: 1000px;
+height: 455px;
+margin: 0 auto;
+}
+.diqizong h4{
+	width: 650px;
+	height: 90px;
+	font-size:13px;
+	color:#000;
+	float: left;
+	border-bottom: 1px solid #f0f0f0;
+	margin-top: 42px;
+}
+.diqizong em{
+	font-size: 13px;
+	color: #555;
+	float: right;
+	width: 89px;
+	height: 29px;
+	border: 1px solid #dbdbdb;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 29px;
+	margin-left: 35px;
+}
+.diqizong span{
+	font-size: 29px;
+	color:  #039af5;
+}
+.diqizong strong{
+	font-size: 29px;
+	color: #555;
+}
+.diqizong i{
+	font-size: 14px;
+	color: #009af3;
+	margin-left: 25px;
+	margin-right: 30px;
+}
+.diqizong img{
+	margin-top: 5px;
+}
+.diqizuoxia{
+	float: left;
+}
+.diqiyou h2{
+	width: 320px;
+	height: 90px;
+	float: left;
+	font-size: 29px;
+	color: #585453;
+	margin-top: 40px;
+}
+.diqiyou i{
+font-size: 29px;
+color: #009af4;
+margin-right: 1px;
+}
+.diqiyou em{
+	font-size: 13px;
+	border: none;
+}
+.diqizuoxia{
+	width: 650px;
+	float: left;
+}
+.diqizuoxia li{
+	margin-top: 21px;
+	line-height: 13px;
+}
+.diqizuoxia i{
+	font-size: 12px;
+	color: #ff7f0d;
+	border: 1px solid #ff7f0d;
+}
+.diqizuoxia span{
+	font-size: 12px;
+	color: #333;
+	float: right;
+}
+.dodo .do{
+	margin-left: 30px;
+}
+.dodo .xie{
+	margin-top: 12px;
+	margin-left: 18px;
+}
+/*第八部分-蝰蛇音效*/
+.kuishe{
+	margin-top: 53px;
+}
+
+/*第九部分-热门电台-歌手*/
+
+.dijiu{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.dijiuzuo{
+	width: 650px;
+	margin-top: 40px;
+}
+.dijiuzuo b{
+	font-size: 29px;
+	color: #555;
+	margin-left: 0;
+}
+.dijiuzuo i{
+font-size: 29px;
+color: #555;
+margin-left: 0;
+}
+.dijiuyou{
+	width: 349px;
+	margin-top:35px;
+}
+.dijiuyou h2{
+	font-size: 12px;
+	color: #000;
+}
+.dijiuyou i{
+	font-size: 12px;
+		color: #009af2;
+}
+.dijiuyou em{
+	border: none;
+	font-size: 12px;
+	color: #009af3;
+	width: 32px;
+	float: right;
+	margin-top: 10px;
+}
+.dijiuyou b{
+	font-size: 29px;
+	color: #009af2;
+}
+.dijiuxiatu li{
+float: left;
+margin-right: 25px;
+margin-top: 30px;
+}
+ .dijiuxiatu .dijiuxiatu5{
+	margin-right: 0px;
+}
+.dijiuxiatu p{
+	font-size: 12px;
+
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.dijiuxiatu a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.dijiuyouxia img{
+	float: left;
+	margin-top: 30px;
+	margin-left: 5px;
+
+}
+   /*第十部分*/
+    .dishi img{
+    margin: 50px auto;
+   }
+/*   第十一部分*/
+.dishier h3{
+	width: 1000px;
+	font-size: 28px;
+	color: #565656;
+	margin-top: 35px;
+}
+.dishier b{
+	font-size: 28px;
+	color: #009af2;
+}
+.dishisan{
+	width: 996px;
+	margin-top: 21px;
+}
+.dishisan li{
+	width: 132px;
+	height: 59px;
+	border: 1px  dashed #ccc;
+	background:url(img/haoshengyin.png) no-repeat center;
+	float: left;
+	margin-left: 9px;
+}
+.dishisan .diyili{
+	margin-left: 0;
+}
+.dishisan .diqili{
+	margin-left: 12px;
+}
+.dishisan .dishisan2 li{
+	margin-top: 13px;
+}
+.dishisan .dishisan3 li{
+	margin-top: 13px;
+}
+.dishisi h6{
+	width: 1000px;
+	font-size: 28px;
+	color: #565656;
+	float: left;
+}
+.dishisi b{
+	font-size: 28px;
+	color: #009af2;}
+.dishisi span {
+	font-size: 13px;
+	color: #999;
+	float: right;
+}
+.dishiwu1 li{
+	float: left;
+	width: 125px;
+	text-align: left;
+	margin-top: 35px;
+}
+.dishiwu2 li{
+	float: left;
+	width: 125px;
+	text-align: left;
+	margin-top: 35px;
+}
